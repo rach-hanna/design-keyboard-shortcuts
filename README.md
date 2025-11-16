@@ -1,1 +1,1 @@
-<img src="2%20alt.jpg" width="300">
+<img src="ctrl.jpg" width="250"> <img src="alt.jpg" width="250"> <img src="delete.jpg" width="250">
